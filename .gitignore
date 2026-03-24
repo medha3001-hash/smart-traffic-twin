@@ -1,0 +1,13 @@
+# Virtual environment — too large to upload
+venv/
+
+# Mac system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
